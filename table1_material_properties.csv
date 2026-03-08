@@ -1,0 +1,14 @@
+﻿Property,PZT-5A,PVDF,Bi₂Te₃
+Piezoelectric charge constant d₃₁ (pC/N),-171,-28,—
+Piezoelectric stress constant e₃₁ (C/m²),-5.2,-0.046,—
+Relative permittivity ε₃₃/ε₀,1700,7.4,—
+Young's modulus (GPa),66,2.5,—
+Density (kg/m³),7750,1780,—
+Electromechanical coupling k₃₁,0.34,0.12,—
+Mechanical quality factor Qₘ,75,15,—
+Seebeck coefficient α (μV/K per couple),—,—,320
+Electrical resistivity ρ (×10⁻⁵ Ω·m),—,—,1.0
+Thermal conductivity κ (W/(m·K)),—,—,1.5
+Figure of merit ZT (at 300 K),—,—,1.0
+Thomson correction factor τ,—,—,0.005
+Internal resistance per couple r (Ω),—,—,0.05

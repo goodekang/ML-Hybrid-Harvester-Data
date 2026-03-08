@@ -1,0 +1,6 @@
+﻿Condition,Freq_Hz,DeltaT_K,P_PEH_mW,P_TEG_mW,P_Hybrid_mW,Improvement_over_dominant_pct
+"Cond-A: f≈fₙ, ΔT=5 K",48.0,5,3.149,1.511,4.553,44.6
+"Cond-B: f≈fₙ, ΔT=10 K",48.0,10,3.175,6.059,9.004,48.6
+"Cond-C: f≈fₙ, ΔT=20 K",48.0,20,3.219,24.188,27.287,12.8
+"Cond-D: f≈fₙ, ΔT=40 K",48.0,40,3.228,94.15,97.246,3.3
+"Cond-E: f≈fₙ, ΔT=60 K",48.0,60,3.203,200.097,203.42,1.7

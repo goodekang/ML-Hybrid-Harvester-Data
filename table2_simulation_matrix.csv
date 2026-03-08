@@ -1,0 +1,9 @@
+﻿Parameter,Range,Levels,Values
+Vibration frequency f (Hz),10 – 200,8,"10, 25, 40, 55, 70, 100, 150, 200"
+Temperature difference ΔT (K),5 – 80,6,"5, 15, 30, 45, 60, 80"
+Cantilever length L (mm),30 – 60,4,"30, 40, 50, 60"
+PZT layer thickness tₚ (mm),0.20 – 0.50,3,"0.20, 0.30, 0.50"
+Beam width w (mm),10 – 20,3,"10, 15, 20"
+TEG couple number N,71 – 199,3,"71, 127, 199"
+Load resistance R_L (kΩ),5 – 100,4,"5, 15, 30, 100"
+Base acceleration a₀ (g),0.5 – 3.0,3,"0.5, 1.0, 2.0"

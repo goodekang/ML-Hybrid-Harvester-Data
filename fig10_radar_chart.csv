@@ -1,0 +1,6 @@
+﻿Design_Scheme,Output Power,Temp Accuracy,Vibration Sensitivity,Energy Efficiency,Bandwidth,Robustness
+PEH-dominant,0.933,0.686,0.953,0.785,0.554,0.755
+TEG-dominant,0.643,0.974,0.431,0.837,0.709,0.874
+Balanced Hybrid,0.849,0.892,0.83,0.836,0.782,0.797
+Compact Design,0.604,0.744,0.686,0.893,0.792,0.866
+ML-Optimized,0.882,0.907,0.824,0.868,0.804,0.796

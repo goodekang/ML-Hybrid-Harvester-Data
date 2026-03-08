@@ -1,0 +1,18 @@
+{
+  "L=30mm": {
+    "f_resonance_Hz": 74.51,
+    "P_peak_mW": 2.055
+  },
+  "L=40mm": {
+    "f_resonance_Hz": 47.98,
+    "P_peak_mW": 3.2
+  },
+  "L=50mm": {
+    "f_resonance_Hz": 34.04,
+    "P_peak_mW": 4.485
+  },
+  "L=60mm": {
+    "f_resonance_Hz": 25.68,
+    "P_peak_mW": 5.876
+  }
+}
